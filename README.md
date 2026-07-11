@@ -95,6 +95,30 @@ A demo video of the project is available here:
 
 > Add your video link after uploading.
 
+
+
+How to Test the Application
+Once both the backend and frontend are running, open the application and try the following steps.
+
+1. Test AI Interaction Extraction
+Open the AI Assistant and paste the following message:
+
+Met Dr. John Smith at Apollo Hospital today.
+
+We discussed our new diabetes medication and its clinical trial results. The doctor was interested in prescribing it for suitable patients and requested product samples along with the latest clinical study documents.
+
+I agreed to send the samples next Monday and schedule a follow-up meeting after two weeks.
+The AI will extract the interaction details and automatically populate the interaction form.
+
+Review the extracted information and click Save to store it in the database.
+
+2. Test Another Interaction
+Visited Dr. Priya Sharma at Fortis Hospital.
+
+We discussed the latest hypertension treatment guidelines and introduced our cardiovascular product portfolio. She requested dosage recommendations and patient education brochures.
+
+Follow up next Friday with additional marketing material.
+
 ---
 
 ## About
